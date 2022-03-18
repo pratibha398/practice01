@@ -1,1 +1,5 @@
 so here, i am adding one text file to understand the conecept 
+
+so again here i am updating something 
+
+now i have to add this file on my git track after that commit
