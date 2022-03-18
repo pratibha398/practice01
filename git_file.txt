@@ -1,2 +1,3 @@
 Welcome to GITHUB................
 Remote server
+command git add .
